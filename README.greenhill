@@ -97,6 +97,9 @@ Others:
 Units
 -----
 
+The cimpletoon set shows that units can be "pointed" in a given direction (that
+also requires 8x as many graphics...).
+
 There are the following units:
 
 - armor (tank)
@@ -161,8 +164,52 @@ Buildings
 
 There are shown on the City screen, both as built and as production targets.
 
+These seem to be defined once for the whole game, rather than being in a
+tileset? To comfirm. The supplied graphics are 64x48 pixels.
+
+- airport
+- aquaduct
+- bank
+- barracks
+    - I
+    - II
+    - III
+- capitalization (i.e. convert production to gold)
+- cathedral
 - city walls -- consider a picket-style wooden wall, with a opening in the
   middle with a upper crossbar
+- coastal defense
+- colosseum
+- courthouse
+- ecclesiastical palace
+- factory
+- granary
+- harbour
+- hydro plant
+- library
+- marketplace
+- mass transit
+- mfg plant (manufactoring)
+- nuclear plant
+- offshore platform
+- palace
+- police station
+- port facility
+- power plant
+- recycling center
+- research lab
+- sam battery
+- sdi defense
+- sewer system
+- solar plant
+- space component
+- space modules
+- space structural
+- stock exchange
+- super highways
+- supermarket
+- temple
+- university
 
 Technologies
 ------------
