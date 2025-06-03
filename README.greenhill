@@ -1,0 +1,170 @@
+Greenhill, a Graphic Set for Freeciv
+====================================
+
+Thoughts is to create a graphic set for Freeciv. I currently use the "default"
+amplio2 set, but I find it hard to understand at a glance. In particular, I
+struggle to tell the land types (grasslands, desert, etc) apart, and the unit
+sort of fade into the background tiles.
+
+Inspiration
+------------
+
+- Consider the "handdrawn" look, such as the map included in the Hobbit
+
+Pallette
+--------
+
+I need to pick a colour pallette.
+
+Tiles
+-----
+
+There are the following base land types:
+
+- desert
+- plains
+- grasslands
+- swamp
+- river (background)
+- forest (background)
+- jungle (background)
+- hills (background)
+- mountains (background)
+- tundra
+- arctic (i.e. polar ice)
+- ocean -- consider "Blue Marble" colouring
+    - coast and deep ocean
+    - also lakes
+
+There are the following tile "improvements":
+
+- oasis -- do one palm tree over a little lake
+- hills
+- mountains
+- coastline -- consider drawing two or three lines in the ocean
+- cities
+- village (aka barbarian hut)
+- fog (of war)
+- darkness (unexplored)
+- roads
+- railway
+- maglev
+- rivers
+    - including river mouths
+- currently active square
+- (oil) "mining"
+- oil platform
+- irrigation
+- farmland
+- mine
+- pollution
+- fallout
+- production markers
+    - for food, use bread and then loafs (for 5)
+    - for trade, use a goal coin, and then a bag
+    - for production, use a hammer, and then an anvil
+
+There are the following resources (similar to tile improvements):
+
+- shield (on grassland)
+- horses
+- buffalo
+- pheasant
+- game (forest)
+- game (tundra)
+- ivory (arctic)
+- fish
+- whales
+- seals
+- wheat
+- wine
+- silk
+- furs
+- spice(s)
+- (exotic) fruit -- an orange?
+- peat
+- coal
+- gold
+- gems
+- oil
+- oil (arctic)
+
+Others:
+
+- could a "compass rose" and "here be dragons" be placed on the ocean tiles,
+  perhaps as an "improvement"
+
+Units
+-----
+
+There are the following units:
+
+- armor (tank)
+- howitzer
+- battleship
+- bomber
+- cannon
+- caravan
+- carrier (aircraft carrier)
+- catapult
+- horsemen
+- chariot
+- cruiser
+- diplomat
+- fighter
+- frigate
+- ironclad
+- knights
+- legion
+- mech_inf (mechanical infantry) -- a jeep?
+- warriors
+- musketeers
+- nuclear (missile?)
+- phalanx
+- rifleman
+- caravel
+- settlers
+- transport (modern container ship)
+- trireme
+- archers
+- calgary
+- cruise missile
+- destroyer
+- dragoons
+- explorer
+- freight (modern "caravan")
+- galleon
+- partisan
+- pikeman
+- marines
+- spy
+- engineer
+- artillery
+- helicopter
+- alpine_troops
+- stealth_bomber
+- stealth_fighter
+- aegis_cruiser
+- paratroopers
+- elephants
+- crusaders
+- fanatics
+- awacs
+- worker
+- leader (a king?)
+- barbarian_leader
+- migrants
+- train (choo choo!)
+
+Buildings
+---------
+
+There are shown on the City screen, both as built and as production targets.
+
+- city walls -- consider a picket-style wooden wall, with a opening in the
+  middle with a upper crossbar
+
+Technologies
+------------
+
+Mostly, I haven't seen these displayed on the client. To investigate more.
