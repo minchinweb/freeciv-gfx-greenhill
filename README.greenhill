@@ -10,6 +10,20 @@ Inspiration
 ------------
 
 - Consider the "handdrawn" look, such as the map included in the Hobbit
+- Consider a sepia toned map
+- Draw reference from topographic maps. These have a way of presenting lots of
+  information without being overwhelming, and perhaps the focus should be on
+  the units anyway. Consider using their map markers to show cities, resources,
+  and improvements.
+- Consider the maps of the Dieppe school;
+  see https://en.wikipedia.org/w/index.php?title=Dieppe_maps
+
+Other References
+----------------
+
+- hh ruleset (and graphics) which add hills to desert, arctic, tundra, forest,
+  and jungle hills, and add volcanoes.
+  c.f. https://github.com/Hafting/freecivstuff/
 
 Pallette
 --------
